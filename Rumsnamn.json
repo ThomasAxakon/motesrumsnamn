@@ -1,3 +1,13 @@
-[{
-  "rooms" : ["Rum 1","Rum 2","Rum 32","Rum 4","Rum 5" ]
-}]
+[
+{
+  "room name" : "rum 1":
+},{
+  "room name" : "rum 2":
+},{
+  "room name" : "rum 3":
+},{
+  "room name" : "rum 4":
+},{
+  "room name" : "rum 5":
+}
+]
