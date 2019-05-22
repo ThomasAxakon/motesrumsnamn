@@ -1,5 +1,13 @@
 [
 {
-  "room name" : ["rum 1 2", "rum 2", "rum 3", "rum 4"  ]
+  "room name" : "Rum 1"
+},{
+  "room name" : "Rum 2"
+},{
+  "room name" : "Rum 3"
+},{
+  "room name" : "Rum 4"
+},{
+  "room name" : "Konferensrummet"
 }
 ]
